@@ -11,7 +11,7 @@ python3 -m venv ~/envs/nbdev \
 Install the dependencies:
 
 ```
-pip3 install -r requirements.tx`
+pip3 install -r requirements.txt`
 ```
 
 Execute a notebook using [Papermill](https://papermill.readthedocs.io/en/latest/usage-execute.html), e.g.:
@@ -24,4 +24,10 @@ Run jupyter in VM setup as:
 
 ```
 jupyter notebook --no-browser --ip 10.211.55.5 --port 8888
+```
+
+Add env to a jupyter kernel:
+
+```
+https://queirozf.com/entries/jupyter-kernels-how-to-add-change-remove
 ```

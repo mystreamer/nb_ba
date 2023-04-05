@@ -1,0 +1,29 @@
+{
+    "os": "Linux-5.11.12-300.fc34.aarch64-aarch64-with-glibc2.35",
+    "python": "3.10.10",
+    "heartbeatAt": "2023-04-04T13:26:05.926473",
+    "startedAt": "2023-04-04T13:26:05.009908",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/mystreamer/nb_ba.git",
+        "commit": "24179fb3b97f4c1befef9593acfe5832a754271b"
+    },
+    "email": null,
+    "root": "/media/psf/Developer/ba/ba_thesis/nb_ba",
+    "host": "fedora",
+    "username": "parallels",
+    "executable": "/home/parallels/envs/nbdev/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 2,
+    "disk": {
+        "total": 62.412109375,
+        "used": 22.325992584228516
+    },
+    "memory": {
+        "total": 13.430213928222656
+    }
+}
