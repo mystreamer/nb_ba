@@ -1,0 +1,188 @@
+{
+    "os": "Linux-4.19.0-23-amd64-x86_64-with-debian-10.13",
+    "python": "3.7.3",
+    "heartbeatAt": "2023-04-04T17:38:07.759589",
+    "startedAt": "2023-04-04T17:38:07.022809",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/mystreamer/nb_ba.git",
+        "commit": "4ddd82d4fc52c082a0d9e9b094534f35c2e5b8c6"
+    },
+    "email": null,
+    "root": "/home/user/massey/ba_thesis/nb_ba",
+    "host": "rattle",
+    "username": "massey",
+    "executable": "/home/user/massey/envs/nbdev/bin/python3",
+    "cpu_count": 24,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 1375.8137916666667,
+        "min": 1200.0,
+        "max": 2900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2880.427,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.148,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.268,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.256,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.298,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.238,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.917,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.519,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1400.577,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1400.316,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.915,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.252,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 2788.732,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.458,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1199.975,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.079,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.09,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.053,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.093,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.211,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.721,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1743.021,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.5,
+            "min": 1200.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1200.467,
+            "min": 1200.0,
+            "max": 2900.0
+        }
+    ],
+    "disk": {
+        "total": 18.0,
+        "used": 13.18215560913086
+    },
+    "gpu": "NVIDIA GeForce GTX TITAN X",
+    "gpu_count": 7,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX TITAN X",
+            "memory_total": 12806127616
+        },
+        {
+            "name": "NVIDIA GeForce GTX TITAN X",
+            "memory_total": 12806127616
+        },
+        {
+            "name": "NVIDIA GeForce GTX TITAN X",
+            "memory_total": 12806127616
+        },
+        {
+            "name": "NVIDIA GeForce GTX TITAN X",
+            "memory_total": 12806127616
+        },
+        {
+            "name": "NVIDIA GeForce GTX TITAN X",
+            "memory_total": 12806127616
+        },
+        {
+            "name": "NVIDIA GeForce GTX TITAN X",
+            "memory_total": 12806127616
+        },
+        {
+            "name": "NVIDIA GeForce GTX TITAN X",
+            "memory_total": 12806127616
+        }
+    ],
+    "memory": {
+        "total": 125.7951774597168
+    }
+}
